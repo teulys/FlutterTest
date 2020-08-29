@@ -1,0 +1,41 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto": "Alertas"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "accessibility",
+            "texto": "Avatars"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "folder_open",
+            "texto": "Cards - Tarjetas"
+        },
+        {
+            "ruta" : "container",
+            "icon" : "check_box_outline",
+            "texto": "Animation Container"
+        },
+        {
+            "ruta" : "fields",
+            "icon" : "text_fields",
+            "texto": "Fields"
+        },
+        {
+            "ruta" : "slider",
+            "icon" : "slider",
+            "texto": "Sliders - Check"
+        }
+        ,
+        {
+            "ruta" : "list",
+            "icon" : "list",
+            "texto": "ListView.Builder"
+        }
+    ]
+}
